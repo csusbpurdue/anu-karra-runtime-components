@@ -1,0 +1,6 @@
+alias rm="rm -i"
+alias cp="cp -i"
+alias mv="mv -i"
+alias gccw="gcc -Wall -Wextra -g"
+alias gdb="gdb -q"
+alias grep="grep --color=auto"
